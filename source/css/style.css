@@ -97,7 +97,8 @@ textarea {
 .card-normal .card .card-image img {
   max-height: 150px;
   top: 50%;
-  transform: translateX(-5%) translateY(-50%);
+  /*transform: translateX(-5%) translateY(-50%);*/
+  transform:  translateY(-50%);
   position: relative;
   border-radius: 2px;
   box-shadow: 3px 4px 12px 0 rgba(0,0,0,0.2);
